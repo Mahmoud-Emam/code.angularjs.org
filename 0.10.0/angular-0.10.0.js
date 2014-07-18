@@ -6,7 +6,7 @@
 'use strict';
 (function(window, document, undefined){
 
-////////////////////////////////////
+//////////////////////////////////// 
 
 if (typeof document.getAttribute == $undefined)
   document.getAttribute = function() {};
